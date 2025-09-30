@@ -1,0 +1,61 @@
+Blurriness rate of image samples
+--------------------------
+
+Directory : samples/sample_1/cropped_image
+
+overzoomed.png : 9.258448623161131
+sample.png : 29.405832891494033
+underzoomed.png : 43.51325293621006
+--------------------------
+
+Directory : samples/sample_2/cropped_image
+
+overfocused_sample_1.png : 9.796607354458216
+relevant_sample.png : 16.082223876350383
+underfocused_sample_1.png : 10.891592492818873
+--------------------------
+
+Directory : samples/sample_3/cropped_image
+
+sample_3_overzoomed.png : 27.886990038576844
+sample_3_overzoomedd.png : 30.14066211393061
+sample_3_overzoomeddd.png : 16.458366117833766
+sample_3_underzoomed.png : 11.571938266413811
+sample_3_underzoomedd.png : 11.500971220264939
+sample_3_underzoomeddd.png : 9.21282712632481
+--------------------------
+
+Directory : samples/sample_4/cropped_image
+
+sample_4.jpeg : 16.906273011670148
+sample_4_overzoomed.jpeg : 18.489325135438577
+sample_4_overzoomedd.jpeg : 18.721841439125285
+sample_4_overzoomeddd.jpeg : 9.95780875116124
+sample_4_underzoomed.jpeg : 11.284396578733386
+sample_4_underzoomedd.jpeg : 9.718249083794277
+sample_4_underzoomeddd.jpeg : 9.369159669310202
+--------------------------
+
+Directory : samples/sample_5/cropped_image
+
+sample_5.png : 12.327560980982355
+sample_5_overzoomed.png : 30.994941361714563
+sample_5_overzoomedd.png : 52.377128424508825
+sample_5_overzoomeddd.png : 8.914059845399684
+sample_5_underzoomed.png : 10.218515806606822
+sample_5_underzoomedd.png : 10.058381910936845
+sample_5_underzoomeddd.png : 10.589104658272193
+--------------------------
+
+Directory : samples/sample_6/cropped_image
+
+blackForms.png : 294.0645095483447
+colourForms.png : 101.02249488752557
+colourFormsBlurred.png : 5.360354464894342
+sample_6.png : 18.330518146490558
+sample_6_overzoomed.png : 37.261650993603155
+sample_6_overzoomedd.png : 11.004467385927938
+sample_6_underzoomed.png : 11.156296751000307
+sample_6_underzoomedd.png : 10.454382303419262
+--------------------------
+
