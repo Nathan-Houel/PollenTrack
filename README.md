@@ -1,1 +1,4 @@
-# PollenTrack
+# 🌸 PollenTrack
+🌿 I worked on PollenTrack, an automated sensor for real-time pollen measurement. My team improved the existing prototype by creating a PCB to make the electronics more reliable, designing a more compact and waterproof enclosure, and developing an image capture system with timestamping and automatic server upload via 4G. This project aims to better monitor allergens for public health.
+
+🌿 J'ai travaillé sur PollenTrack, un capteur automatisé pour mesurer le pollen en temps réel. Mon équipe a amélioré le prototype existant en créant une carte PCB pour fiabiliser l'électronique, en concevant un boîtier plus compact et étanche, et en développant un système de prise d'images avec horodatage et envoi automatique sur serveur via 4G. Ce projet vise à mieux surveiller les allergènes pour la santé publique.
